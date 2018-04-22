@@ -1,0 +1,5 @@
+Air-India AI Pune Kolkata 24/04/2018-19:40 24/04/2018-21:40 50
+Air-India AI Pune Banglore 25/04/2018-08:40 25/04/2018-10:40 55
+Indigo 6E Banglore Mumbai 23/04/2018-19:00 23/04/2018-22:40 62
+Indigo 6E Delhi Mumbai 24/05/2018-09:00 24/05/2018-12:00 12
+Go-Air G8 Mumbai Chennai 24/06/2018-14:40 24/06/2018-15:30 2
